@@ -1,5 +1,5 @@
 Name:		texlive-graphicscache
-Version:	60150
+Version:	65318
 Release:	1
 Summary:	Cache includegraphics calls
 Group:		Publishing
