@@ -1,6 +1,6 @@
 Name:		texlive-graphicscache
 Version:	65318
-Release:	1
+Release:	2
 Summary:	Cache includegraphics calls
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphicscache
