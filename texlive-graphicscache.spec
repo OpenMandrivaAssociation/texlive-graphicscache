@@ -3,7 +3,7 @@ Version:	65318
 Release:	2
 Summary:	Cache includegraphics calls
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphicscache
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/graphicscache
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphicscache.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphicscache.doc.r%{version}.tar.xz
